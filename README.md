@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there! 👋
+##### I'm Michelle, a sophomore studying mechanical engineering with a minor in material science and concentration in manufacturing at Boston University. I'm passionate about exploring more about how material science plays a role in manufacturing, and how machine learning could be used to further enhance those fields. I love building things and doing hands on work, whether it be laser cutting keychains or woodworking a new headphone stand.
+##### Outside of engineering, I enjoy cafe hopping, cardistry, exploring the city, and more!
+##### You can reach me at mxyyang@bu.edu or mxy.yang24@gmail.com
 <!--
 **mxyyang/mxyyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
